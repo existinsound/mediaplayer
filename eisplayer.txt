@@ -1,3 +1,3 @@
 {"url": "https://static.wixstatic.com/mp3/cd616b_afe2337d1d11400fb4cb999412900fcf.mp3", 
-"url2" : "https://static.wixstatic.com/mp3/cd616b_fc79d1a248ce4289ae7a9b47b469e743.mp3", 
-"splashurl" : "https://static.wixstatic.com/media/cd616b_95fc60890fe3463bbab783f3ecfddac9~mv2.png"}
+"url2" : "", 
+"splashurl" : ""}
