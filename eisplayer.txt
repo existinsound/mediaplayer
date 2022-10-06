@@ -1,3 +1,3 @@
-{"url": "https://static.wixstatic.com/mp3/cd616b_e5396715d77149b1af50b36e4d155f77.mp3", 
-"url2" : "https://static.wixstatic.com/mp3/cd616b_c9fb2365e19e4bf5ba9c39028e12735e.mp3", 
+{"url": "http://fps1.listen2myradio.com:2199/listenAll.php?ip=198.7.59.28&port=8369&type=s2&mount=1", 
+"url2" : "", 
 "splashurl" : "https://static.wixstatic.com/media/cd616b_6ca125012237425981076320000d6622~mv2.png"}
