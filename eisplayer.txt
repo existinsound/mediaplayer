@@ -1,3 +1,3 @@
-{"url": "https://us1new.listen2myradio.com:2199/live.mp3?typeportmount=s2_8369_stream_546424384", 
+{"url": "http://us1new.listen2myradio.com:2199/live.mp3?typeportmount=s2_8369_stream_546424384", 
 "url2" : "", 
 "splashurl" : "https://static.wixstatic.com/media/cd616b_6568c33c792e4863bc5533f7d38efcff~mv2.png"}
